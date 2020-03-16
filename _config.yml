@@ -15,8 +15,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "The Informant"
-description:	       "a Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+description:	       "A collaborative blog of the graduate and post-graduate students assosciated with the excellence cluster "Science of Intelligence" in Berlin"
+author:              "Fritz Francisco"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
