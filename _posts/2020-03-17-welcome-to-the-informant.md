@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to The Informant!"
-author: "[Fritz Francisco](https://fritzfrancisco.github.io/)"
+author: [Fritz Francisco](https://fritzfrancisco.github.io/)
 categories: documentation
 tags: [documentation,sample]
 image: the_informant.jpg
