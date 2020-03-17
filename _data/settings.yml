@@ -12,7 +12,7 @@ menu:
 #- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 # - {name: <a><input type="text" id="search-input" placeholder="" size=15"></a>}
-- {name: <a><input type="text" name="search" placeholder="""></a>}
+- {name: <a><input type="text" id="search-input" placeholder="" size=15"></a>}
 - {name: <i class='fa fa-search'></i>}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
