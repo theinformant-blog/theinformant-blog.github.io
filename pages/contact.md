@@ -6,7 +6,7 @@ title: Contact
 Editorial Board:
 
 - [Fritz Francisco](https://fritzfrancisco.github.io/)
-<i class="fa fa-envelope" aria-hidden="true"></i>
+<i class="fa fa-envelope" aria-hidden="true"  href="mailto:fritz.francisco@hu-berlin.de"></i>
 - [Robert Lange](https://roberttlange.github.io/)
 <i class="fa fa-envelope" aria-hidden="true"></i>
 - [Nicolas Roth](mailto:roth@tu-berlin.de)
