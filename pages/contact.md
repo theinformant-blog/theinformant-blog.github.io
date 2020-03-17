@@ -3,13 +3,9 @@ layout: misc
 title: Contact
 ---
 
-<form action="https://getsimpleform.com/messages?form_api_token=d63e998e365b0ecc018824312583fcaa" method="post">
+# The Informant
 
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+Editorial Board:
 
-  <!-- all your input fields here.... -->
-  <textarea name="content"></textarea>
-
-  <input type='submit' value='Contact' />
-</form>
+- [Fritz Francisco](https://fritzfrancisco.github.io/) <i class="fab fa-github"></i>
+- [Robert Lange](https://roberttlange.github.io/) <i class="fab fa-github"></i>
