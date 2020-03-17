@@ -11,7 +11,7 @@ menu:
 #- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 #- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
-- {name: <a><input type="text" id="search-input" placeholder="" size=15  style="padding-right: 10px;"><i class='fa fa-search'></i></a>}
+- {name: <a><input type="text" style="padding-right: 10px;" id="search-input" placeholder="" size=15><i class='fa fa-search'></i></a>}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
