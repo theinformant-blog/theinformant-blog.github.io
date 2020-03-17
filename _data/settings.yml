@@ -14,12 +14,12 @@ menu:
 # - {name: <a><input type="text" id="search-input" placeholder="" size=15"></a>}
 # - {name: <i class='fa fa-search'></i>}
 - {name:
-    <div class="dropdown">
+    <a><div class="dropdown">
       <button class="dropbtn"><i class="fa fa-search" aria-hidden="true"></i></button>
       <div class="dropdown-content">
         <a><input type="text" id="search-input" placeholder="" size=15"></a>
       </div>
-    </div>}
+    </div></a>}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
