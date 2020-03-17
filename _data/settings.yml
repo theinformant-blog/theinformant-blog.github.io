@@ -11,8 +11,15 @@ menu:
 #- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 #- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
-- {name: <a><input type="text" id="search-input" placeholder="" size=15"></a>}
-- {name: <i class='fa fa-search'></i>}
+# - {name: <a><input type="text" id="search-input" placeholder="" size=15"></a>}
+# - {name: <i class='fa fa-search'></i>}
+- {name:
+    <div class="dropdown">
+      <button class="dropbtn"><i class="fa fa-search" aria-hidden="true"></i></button>
+      <div class="dropdown-content">
+        <a><input type="text" id="search-input" placeholder="" size=15"></a>
+      </div>
+    </div>}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
