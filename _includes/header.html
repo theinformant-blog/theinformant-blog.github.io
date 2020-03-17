@@ -2,6 +2,7 @@
   <h3 class="site-title">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </h3>
+  <ul id="results-container"></ul>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
@@ -23,5 +24,4 @@
       {% endfor %}
     </div>
   </div>
-  <ul id="results-container"></ul>
 </header>
